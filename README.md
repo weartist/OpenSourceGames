@@ -5,4 +5,4 @@ This repository records the open source games on GitHub, as well as their listin
 
 ## Game list
 
-[shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) [steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)
+[shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon):This is a classic rogue-like dungeon crawler that has a near-decade of mobile polish applied, taking it to pixel perfection. [steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)
